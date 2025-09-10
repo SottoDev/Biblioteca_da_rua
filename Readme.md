@@ -1,4 +1,4 @@
-.# 📚 Sistema de Gestão de Livros
+# 📚 Sistema de Gestão de Livros
 
 ---
 
